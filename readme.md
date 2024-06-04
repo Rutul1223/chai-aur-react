@@ -6,8 +6,7 @@ Welcome to the comprehensive repository dedicated to teaching ReactJS in depth. 
 
 - **In-Depth Explanations**: Each concept is broken down for easier understanding and comprehensive learning.
 - **Project-Based Learning**: Multiple projects to ensure that your theoretical knowledge is supplemented with practical experience.
-- **Free Video Series**: All lessons are available in video format on our YouTube channel "chai aur code".
-
+- 
 ## 🚀 Getting Started
 
 
